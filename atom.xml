@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>风继续吹の博客</title>
+  
+  <subtitle>风继续吹の博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://leslieyin02.github.io/"/>
+  <updated>2022-08-26T06:41:27.038Z</updated>
+  <id>https://leslieyin02.github.io/</id>
+  
+  <author>
+    <name>LeslieYin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL基础部分</title>
+    <link href="https://leslieyin02.github.io/2022/08/26/mysql-base/"/>
+    <id>https://leslieyin02.github.io/2022/08/26/mysql-base/</id>
+    <published>2022-08-26T06:11:00.000Z</published>
+    <updated>2022-08-26T06:41:27.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、开场吹比&quot;&gt;&lt;a href=&quot;#一、开场吹比&quot; class=&quot;headerlink&quot; title=&quot;一、开场吹比&quot;&gt;&lt;/a&gt;一、开场吹比&lt;/h2&gt;&lt;p&gt;CRUD &lt;/p&gt;
+&lt;p&gt;层次模型 网状模型 关系型
+        
+      
+    
+    </summary>
+    
+      <category term="backend" scheme="https://leslieyin02.github.io/categories/backend/"/>
+    
+    
+      <category term="MySQL" scheme="https://leslieyin02.github.io/tags/MySQL/"/>
+    
+      <category term="Database" scheme="https://leslieyin02.github.io/tags/Database/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL高级部分</title>
+    <link href="https://leslieyin02.github.io/2022/08/26/mysql-advance/"/>
+    <id>https://leslieyin02.github.io/2022/08/26/mysql-advance/</id>
+    <published>2022-08-26T06:11:00.000Z</published>
+    <updated>2022-08-30T12:23:24.758Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、视图&quot;&gt;&lt;a href=&quot;#一、视图&quot; class=&quot;headerlink&quot; title=&quot;一、视图&quot;&gt;&lt;/a&gt;一、视图&lt;/h2&gt;&lt;h3 id=&quot;1-视图&quot;&gt;&lt;a href=&quot;#1-视图&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="backend" scheme="https://leslieyin02.github.io/categories/backend/"/>
+    
+    
+      <category term="MySQL" scheme="https://leslieyin02.github.io/tags/MySQL/"/>
+    
+      <category term="Database" scheme="https://leslieyin02.github.io/tags/Database/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux基础总结</title>
+    <link href="https://leslieyin02.github.io/2022/08/26/linux/"/>
+    <id>https://leslieyin02.github.io/2022/08/26/linux/</id>
+    <published>2022-08-26T03:41:03.000Z</published>
+    <updated>2022-08-26T06:41:12.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;第-1-章-Linux-系统概述&quot;&gt;&lt;a href=&quot;#第-1-章-Linux-系统概述&quot; class=&quot;headerlink&quot; title=&quot;第 1 章 Linux 系统概述&quot;&gt;&lt;/a&gt;第 1 章 Linux 系统概述&lt;/h2&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="backend" scheme="https://leslieyin02.github.io/categories/backend/"/>
+    
+    
+      <category term="Linux" scheme="https://leslieyin02.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
