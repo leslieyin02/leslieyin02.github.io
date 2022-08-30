@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>MySQL企业规范约束</title>
+      <link href="/2022/08/30/constraint/"/>
+      <url>/2022/08/30/constraint/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、库表字段约束规范"><a href="#一、库表字段约束规范" class="headerlink" title="一、库表字段约束规范"></a>一、库表字段约束规范</h2><ol><li><p>如果是判断是否的字段，前缀为is_一定是unsigned tinyint类型，长度为1</p></li><li><p>只要不存在负数的字段，一定是无符号整型</p></li><li><p>数据库，表名，字段名不能出现大写字母，必须是小写字母，下划线后不能只出现数字</p><p> <strong>注：在windows下默认不区分大小写，而在linux下默认区分大小写</strong></p></li><li><p>表名不能是复数，不能以关键字为表名</p></li><li><p>主键索引名以pk_xxx开头，唯一键索引名，以idx_xxx开头，索引名，uk_xxx</p></li><li><p>有小数的禁止使用float，和double，用decimal</p></li><li><p>字符串很小时，使用char定长，varchar是可变长度字符串，一般varchar不超过5000，超过后直接使用文本类型</p></li><li><p>表里必须存在三个字段</p><ul><li>id            必须是unsigned bigint类型，必须设为primary key，如果是单表，和其他表无绑定，必须设为自增</li><li>create_time       必须是datatime类型</li><li>update_time       必须是datetime类型</li></ul></li><li><p>仓库名一般和应用名保持一致</p></li><li><p>字段如果频繁查询，可以允许适当冗余</p></li><li><p>单表超过五百万行或者超过两个G，要分库分表</p></li><li><p>数据类型和宽度的定义要合理</p></li></ol><h2 id="二、索引规范"><a href="#二、索引规范" class="headerlink" title="二、索引规范"></a>二、索引规范</h2><ol><li>一般要给唯一索引</li><li>多表查询，不允许关联查询，内联查询，最多存在两个，并且数据类型要一致</li><li>多表查询时，关联查询的字段也应该有索引</li></ol><h2 id="三、SQL开发约束"><a href="#三、SQL开发约束" class="headerlink" title="三、SQL开发约束"></a>三、SQL开发约束</h2><ol><li><p>count(x,xxx) 不能代替 count(*)，因为 * 可以查询到数据为null的字段</p></li><li><p>当字段是否为null作为where后的查询语句时，一定要用is，如where name is null，判断是否为空的函数 ISNULL()</p></li><li><p>不要使用外键和级联，尤其是在高并发集群项目当中，一切都在应用层解决，不能在SQL语句中</p></li><li><p>实际开发过程中不允许使用存储过程，很难调试</p></li><li><p>更新数据时先要查原数据</p></li><li><p>In操作能避免则避免</p></li><li><p>字符编码必须是UTF8</p></li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> backend </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+            <tag> Datebase </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MySQL高级部分</title>
       <link href="/2022/08/26/mysql-advance/"/>
       <url>/2022/08/26/mysql-advance/</url>

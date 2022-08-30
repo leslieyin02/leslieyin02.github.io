@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leslieyin02.github.io/"/>
-  <updated>2022-08-30T12:23:24.758Z</updated>
+  <updated>2022-08-30T12:59:37.466Z</updated>
   <id>https://leslieyin02.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL企业规范约束</title>
+    <link href="https://leslieyin02.github.io/2022/08/30/constraint/"/>
+    <id>https://leslieyin02.github.io/2022/08/30/constraint/</id>
+    <published>2022-08-30T12:56:03.000Z</published>
+    <updated>2022-08-30T12:59:37.466Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、库表字段约束规范&quot;&gt;&lt;a href=&quot;#一、库表字段约束规范&quot; class=&quot;headerlink&quot; title=&quot;一、库表字段约束规范&quot;&gt;&lt;/a&gt;一、库表字段约束规范&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;如果是判断是否的字段，前缀为is_一定是unsigned
+        
+      
+    
+    </summary>
+    
+      <category term="backend" scheme="https://leslieyin02.github.io/categories/backend/"/>
+    
+    
+      <category term="MySQL" scheme="https://leslieyin02.github.io/tags/MySQL/"/>
+    
+      <category term="Datebase" scheme="https://leslieyin02.github.io/tags/Datebase/"/>
+    
+  </entry>
   
   <entry>
     <title>MySQL高级部分</title>
