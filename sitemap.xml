@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://leslieyin02.github.io/movies/index.html</loc>
+    
+    <lastmod>2022-09-03T14:06:20.751Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://leslieyin02.github.io/musics/index.html</loc>
+    
+    <lastmod>2022-09-03T14:05:51.303Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://leslieyin02.github.io/books/index.html</loc>
+    
+    <lastmod>2022-09-03T13:13:20.096Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://leslieyin02.github.io/2022/08/30/constraint/</loc>
     
     <lastmod>2022-08-30T12:59:37.466Z</lastmod>
@@ -65,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/archives/index.html</loc>
-    
-    <lastmod>2022-08-26T01:49:44.411Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://leslieyin02.github.io/categories/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
@@ -86,6 +100,13 @@
   </url>
   
   <url>
+    <loc>https://leslieyin02.github.io/archives/index.html</loc>
+    
+    <lastmod>2022-08-26T01:49:44.411Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://leslieyin02.github.io/galleries/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
@@ -93,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
+    <loc>https://leslieyin02.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
+    <loc>https://leslieyin02.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
     
