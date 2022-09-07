@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://leslieyin02.github.io/2022/08/26/mysql-advance/</loc>
+    
+    <lastmod>2022-09-06T03:20:22.280Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://leslieyin02.github.io/List/index.html</loc>
     
     <lastmod>2022-09-04T04:58:00.289Z</lastmod>
@@ -37,23 +44,9 @@
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/2022/08/26/mysql-advance/</loc>
-    
-    <lastmod>2022-08-30T12:23:24.758Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://leslieyin02.github.io/2022/08/26/mysql-base/</loc>
     
     <lastmod>2022-08-26T06:41:27.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://leslieyin02.github.io/2022/08/26/linux/</loc>
-    
-    <lastmod>2022-08-26T06:41:12.217Z</lastmod>
     
   </url>
   
@@ -93,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/archives/index.html</loc>
+    <loc>https://leslieyin02.github.io/categories/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/categories/index.html</loc>
+    <loc>https://leslieyin02.github.io/archives/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
     
@@ -121,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/List/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
+    <loc>https://leslieyin02.github.io/List/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://leslieyin02.github.io/List/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
+    <loc>https://leslieyin02.github.io/List/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
     
     <lastmod>2022-08-26T01:49:44.411Z</lastmod>
     
